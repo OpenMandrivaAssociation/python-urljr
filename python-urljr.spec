@@ -33,3 +33,13 @@ rm -rf $RPM_BUILD_ROOT
 %doc README urljr/test/
 %{python_sitelib}/*
 
+
+
+%changelog
+* Wed Jun 08 2011 Antoine Ginies <aginies@mandriva.com> 1.0.0-1mdv2011.0
++ Revision: 683272
+- import python-urljr
+
+
+* Wed Jun 8 2011 Antoine Ginies <aginies@mandriva.com> 1.0.0
+- first release for Mandriva 
