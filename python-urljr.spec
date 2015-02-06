@@ -1,7 +1,7 @@
 %define module urljr
 Name: 		python-%module
 Version: 	1.0.0
-Release: 	%mkrel 1
+Release: 	2
 License: 	GPL
 Summary: 	JanRain's URL Utilities
 Group: 		Development/Python
