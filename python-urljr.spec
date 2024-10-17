@@ -8,7 +8,7 @@ Group: 		Development/Python
 BuildRoot: 	%{_tmppath}/%{name}-%{version}-build
 BuildRequires: 	python-devel
 Requires: 	python-curl
-Url: 		http://www.openidenabled.com/openid/libraries/python
+Url: 		https://www.openidenabled.com/openid/libraries/python
 Source: 	http://www.openidenabled.com/resources/downloads/python-openid/python-urljr-%{version}.tar.gz
 Buildarch:	noarch
 
